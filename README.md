@@ -1,3 +1,3 @@
 # Blockchain
-A simple implementation of Blockchain\n
-Thorough understanding of Blockchain
+
+Thorough understanding of Blockchain by a simple implementation 
